@@ -1,0 +1,19 @@
+LG3_SUPER_4	StringTie	transcript	48883704	48899805	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48883704	48883721	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "1"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48885953	48886025	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "2"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48888255	48888320	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "3"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48890695	48890796	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "4"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48892274	48892419	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "5"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48896451	48896573	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "6"; ref_gene_id "g15582";
+LG3_SUPER_4	StringTie	exon	48899669	48899749	1000	+	.	gene_id "MSTRG.82250"; transcript_id " g15582.t1"; exon_number "7"; ref_gene_id "g15582";
+LG12_SUPER_3	AUGUSTUS	gene	54491592	54525840	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	transcript	54491592	54525840	0.94	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54491592	54491720	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54494120	54494226	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54495025	54495208	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54520307	54520372	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54520947	54521047	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54522245	54522291	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54525200	54525276	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+LG12_SUPER_3	AUGUSTUS	exon	54525793	54525840	.	+	.	transcript_id " g13887.t1"; gene_id "g13887";
+

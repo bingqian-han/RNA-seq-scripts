@@ -1,0 +1,2 @@
+cladeA_cons	TEsorter	exon	4428	5096	.	+	.	gene_id "cladeA_RT"; transcript_id "cladeA_RT";
+cladeB_cons	TEsorter	exon	2061	2750	.	+	.	gene_id "cladeB_RT"; transcript_id "cladeB_RT";
