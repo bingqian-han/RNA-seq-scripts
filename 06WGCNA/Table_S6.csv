@@ -1,0 +1,110 @@
+"GO_ID","GO_term_name","Gene_count_North_Module1","FDR_North_Module1","Gene_count_North_Module2","FDR_North_Module2","Gene_count_Central_Module1","FDR_Central_Module1","Gene_count_South_Module1","FDR_South_Module1"
+"GO:0061077","chaperone-mediated protein folding",16,"0.000002",3,"1.000000",12,"0.001010",15,"1.72E-07"
+"GO:0044183","protein folding chaperone",23,"6.52E-13",7,"1.000000",20,"1.24E-10",21,"1.00E-13"
+"GO:0051082","unfolded protein binding",27,"1.07E-10",16,"1.000000",22,"1.25E-07",27,"3.31E-14"
+"GO:0006457","protein folding",22,"0.000217",20,"1.000000",16,"0.038909",25,"4.10E-09"
+"GO:0051085","chaperone cofactor-dependent protein refolding",13,"2.60E-07",3,"1.000000",11,"0.000011",15,"9.77E-12"
+"GO:0042026","protein refolding",22,"5.06E-16",1,"1.000000",20,"2.38E-14",22,"3.79E-19"
+"GO:0140662","ATP-dependent protein folding chaperone",17,"5.63E-13",1,"1.000000",14,"1.11E-09",15,"1.68E-12"
+"GO:0031072","heat shock protein binding",19,"5.45E-08",7,"1.000000",18,"7.74E-08",20,"1.34E-11"
+"GO:0006986","response to unfolded protein",15,"0.000013",2,"1.000000",13,"0.000146",17,"1.26E-09"
+"GO:0051087","protein-folding chaperone binding",17,"0.006084",13,"1.000000",19,"0.000128",18,"0.000017"
+"GO:0009408","response to heat",30,"1.15E-07",20,"1.000000",30,"1.01E-08",30,"2.63E-11"
+"GO:1902430","negative regulation of amyloid-beta formation",5,"0.075305",3,"1.000000",6,"0.006477",5,"0.018259"
+"GO:0008179","adenylate cyclase binding",5,"0.039627",4,"1.000000",5,"0.024599",5,"0.008568"
+"GO:0050435","amyloid-beta metabolic process",5,"0.075305",5,"0.869231",6,"0.006477",5,"0.018259"
+"GO:0035080","heat shock-mediated polytene chromosome puffing",7,"0.000020",0,NA,7,"0.000011",7,"0.000002"
+"GO:0006950","response to stress",8,"0.000056",2,"1.000000",8,"0.000027",8,"0.000004"
+"GO:1904871","positive regulation of protein localization to Cajal body",5,"0.007885",1,"1.000000",3,"0.301614",3,"0.203527"
+"GO:1904851","positive regulation of establishment of protein localization to telomere",5,"0.004956",0,NA,3,"0.261532",3,"0.162150"
+"GO:0005832","chaperonin-containing T-complex",6,"0.000229",0,NA,4,"0.037757",4,"0.016683"
+"GO:1904874","positive regulation of telomerase RNA localization to Cajal body",6,"0.001559",0,NA,3,"0.394769",4,"0.042835"
+"GO:0050821","protein stabilization",21,"0.102969",28,"1.000000",19,"0.144187",21,"0.001982"
+"GO:0031625","ubiquitin protein ligase binding",25,"0.095362",29,"1.000000",21,"0.282886",23,"0.007062"
+"GO:0120293","dynein axonemal particle",8,"0.006084",3,"1.000000",5,"0.289966",6,"0.029291"
+"GO:0101031","protein folding chaperone complex",10,"0.000191",3,"1.000000",8,"0.004614",9,"0.000094"
+"GO:0017025","TBP-class protein binding",6,"0.054804",3,"1.000000",8,"0.000551",4,"0.277944"
+"GO:0043292","contractile muscle fiber",5,"0.183561",1,"1.000000",6,"0.027182",6,"0.008367"
+"GO:0005212","structural constituent of eye lens",7,"0.006642",1,"1.000000",7,"0.003542",7,"0.000793"
+"GO:0043565","sequence-specific DNA binding",25,"0.200801",22,"1.000000",29,"0.003566",20,"0.158759"
+"GO:0003700","DNA-binding transcription factor activity",26,"0.011107",19,"1.000000",26,"0.002384",20,"0.021052"
+"GO:0006355","regulation of DNA-templated transcription",36,"0.228513",55,"1.000000",41,"0.002762",33,"0.010522"
+"GO:0000977","RNA polymerase II transcription regulatory region sequence-specific DNA binding",18,"0.054804",14,"1.000000",20,"0.002384",11,"0.526569"
+"GO:0042594","response to starvation",20,"0.012809",17,"1.000000",20,"0.003542",19,"0.000479"
+"GO:0022626","cytosolic ribosome",2,"0.995613",75,"2.97E-47",0,NA,0,NA
+"GO:0002181","cytoplasmic translation",0,NA,78,"2.24E-56",0,NA,1,"0.987551"
+"GO:0022625","cytosolic large ribosomal subunit",0,NA,48,"1.07E-35",0,NA,0,NA
+"GO:0005840","ribosome",5,"0.979014",108,"6.09E-63",5,"0.964088",1,"0.999477"
+"GO:0003735","structural constituent of ribosome",3,"0.999992",122,"1.44E-73",5,"0.973196",1,"0.999920"
+"GO:0006412","translation",3,"0.999992",123,"1.33E-58",6,"0.977931",3,"0.994992"
+"GO:0140242","translation at postsynapse",0,NA,27,"6.05E-22",0,NA,0,NA
+"GO:0140236","translation at presynapse",0,NA,27,"3.34E-23",0,NA,0,NA
+"GO:0098556","cytoplasmic side of rough endoplasmic reticulum membrane",0,NA,10,"6.98E-07",0,NA,0,NA
+"GO:0015934","large ribosomal subunit",0,NA,16,"2.45E-08",0,NA,0,NA
+"GO:0022627","cytosolic small ribosomal subunit",2,"0.971052",33,"2.52E-23",1,"0.967004",1,"0.888441"
+"GO:0015935","small ribosomal subunit",0,NA,24,"3.40E-18",0,NA,0,NA
+"GO:0000028","ribosomal small subunit assembly",0,NA,12,"0.000001",0,NA,0,NA
+"GO:0019843","rRNA binding",2,"0.973378",25,"1.11E-07",2,"0.941168",2,"0.861065"
+"GO:0098794","postsynapse",11,"0.975806",68,"3.61E-07",9,"0.973196",6,"0.980690"
+"GO:0042274","ribosomal small subunit biogenesis",0,NA,44,"2.47E-18",2,"0.973196",0,NA
+"GO:0032040","small-subunit processome",0,NA,41,"6.97E-15",1,"0.999770",0,NA
+"GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0,NA,15,"0.000053",2,"0.937760",0,NA
+"GO:0006364","rRNA processing",2,"0.999992",71,"5.97E-23",4,"0.984629",2,"0.994737"
+"GO:0042254","ribosome biogenesis",0,NA,23,"0.000830",1,"0.999770",0,NA
+"GO:0032543","mitochondrial translation",4,"0.973378",49,"8.01E-17",5,"0.937760",0,NA
+"GO:0005762","mitochondrial large ribosomal subunit",2,"0.991016",31,"0.000002",4,"0.937760",0,NA
+"GO:0005761","mitochondrial ribosome",1,"0.971052",14,"0.000006",3,"0.823348",0,NA
+"GO:0005763","mitochondrial small ribosomal subunit",1,"0.983599",18,"0.000366",1,"0.973196",0,NA
+"GO:0005743","mitochondrial inner membrane",15,"0.991584",111,"6.33E-14",18,"0.939649",9,"0.992747"
+"GO:1901798","positive regulation of signal transduction by p53 class mediator",0,NA,7,"0.005206",0,NA,0,NA
+"GO:0042273","ribosomal large subunit biogenesis",2,"0.971052",22,"2.62E-08",5,"0.622328",3,"0.838146"
+"GO:0030687","preribosome, large subunit precursor",0,NA,15,"0.000010",0,NA,0,NA
+"GO:0000027","ribosomal large subunit assembly",1,"0.971052",13,"0.000057",1,"0.939649",1,"0.855381"
+"GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",2,"0.971052",10,"0.004165",2,"0.937760",2,"0.838146"
+"GO:1902570","protein localization to nucleolus",1,"0.971052",8,"0.000406",2,"0.799980",1,"0.838146"
+"GO:0008097","5S rRNA binding",1,"0.971052",8,"0.004511",1,"0.937760",1,"0.838146"
+"GO:0008380","RNA splicing",19,"0.319409",44,"0.009372",13,"0.937760",10,"0.838146"
+"GO:0000398","mRNA splicing, via spliceosome",18,"0.919461",58,"0.000598",12,"0.937760",10,"0.844865"
+"GO:1990904","ribonucleoprotein complex",15,"0.929711",86,"3.33E-22",11,"0.937760",8,"0.850195"
+"GO:1903561","extracellular vesicle",13,"0.001284",4,"1.000000",6,"0.776900",8,"0.091822"
+"GO:0003729","mRNA binding",28,"0.484728",82,"0.000003",15,"0.941168",15,"0.838146"
+"GO:0006413","translational initiation",2,"0.971052",23,"2.09E-08",2,"0.937760",2,"0.838146"
+"GO:0003743","translation initiation factor activity",2,"0.971052",20,"0.000010",1,"0.973196",2,"0.841986"
+"GO:0033290","eukaryotic 48S preinitiation complex",1,"0.971052",10,"0.000783",1,"0.937760",1,"0.838146"
+"GO:0016282","eukaryotic 43S preinitiation complex",1,"0.971052",9,"0.005858",1,"0.937760",1,"0.838146"
+"GO:0005839","proteasome core complex",4,"0.197728",9,"0.000925",1,"0.937760",0,NA
+"GO:0000502","proteasome complex",7,"0.487236",21,"0.000116",5,"0.881625",3,"0.838146"
+"GO:0031597","cytosolic proteasome complex",0,NA,7,"0.002234",1,"0.937760",0,NA
+"GO:0045271","respiratory chain complex I",1,"0.979014",27,"5.85E-15",0,NA,1,"0.888441"
+"GO:0005747","mitochondrial respiratory chain complex I",0,NA,21,"7.56E-11",0,NA,0,NA
+"GO:0006120","mitochondrial electron transport, NADH to ubiquinone",0,NA,24,"1.03E-12",1,"0.960903",1,"0.876719"
+"GO:0008137","NADH dehydrogenase (ubiquinone) activity",0,NA,17,"4.41E-09",0,NA,0,NA
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis",0,NA,26,"1.06E-14",0,NA,0,NA
+"GO:0032981","mitochondrial respiratory chain complex I assembly",1,"0.979014",20,"0.000002",1,"0.970736",1,"0.905786"
+"GO:0009060","aerobic respiration",0,NA,18,"0.000671",0,NA,0,NA
+"GO:0045259","proton-transporting ATP synthase complex",0,NA,9,"0.000004",0,NA,0,NA
+"GO:0005753","mitochondrial proton-transporting ATP synthase complex",0,NA,11,"1.03E-07",0,NA,0,NA
+"GO:0046933","proton-transporting ATP synthase activity, rotational mechanism",0,NA,10,"0.000003",0,NA,0,NA
+"GO:0015986","proton motive force-driven ATP synthesis",0,NA,11,"5.34E-07",0,NA,0,NA
+"GO:0006123","mitochondrial electron transport, cytochrome c to oxygen",1,"0.971052",9,"0.000004",2,"0.776900",0,NA
+"GO:0039660","structural constituent of virion",33,"1.77E-32",1,"1.000000",35,"8.13E-38",29,"6.18E-30"
+"GO:0019013","viral nucleocapsid",33,"1.14E-28",1,"1.000000",35,"1.99E-33",29,"7.26E-27"
+"GO:0072494","host multivesicular body",33,"1.09E-33",1,"1.000000",34,"2.79E-37",29,"7.39E-31"
+"GO:0020002","host cell plasma membrane",34,"6.09E-29",3,"1.000000",34,"1.65E-30",29,"6.59E-26"
+"GO:0044185","host cell late endosome membrane",33,"2.55E-34",1,"1.000000",34,"6.22E-38",29,"2.51E-31"
+"GO:0019068","virion assembly",33,"1.04E-25",4,"1.000000",34,"1.18E-28",29,"1.83E-24"
+"GO:0075713","establishment of integrated proviral latency",33,"4.91E-29",1,"1.000000",35,"7.06E-34",29,"3.51E-27"
+"GO:0044826","viral genome integration into host DNA",33,"4.91E-29",1,"1.000000",35,"7.06E-34",29,"3.51E-27"
+"GO:0046718","symbiont entry into host cell",36,"1.78E-17",9,"1.000000",37,"5.27E-20",30,"5.22E-16"
+"GO:0039657","symbiont-mediated suppression of host gene expression",26,"6.96E-25",2,"1.000000",27,"6.84E-28",22,"1.46E-21"
+"GO:0015074","DNA integration",135,"2.02E-85",15,"1.000000",138,"1.45E-95",121,"1.14E-87"
+"GO:0004519","endonuclease activity",108,"1.42E-64",17,"1.000000",110,"8.24E-72",101,"1.19E-71"
+"GO:0006310","DNA recombination",128,"6.87E-83",14,"1.000000",130,"1.86E-91",120,"1.78E-91"
+"GO:0004190","aspartic-type endopeptidase activity",123,"2.80E-107",9,"1.000000",128,"1.70E-121",118,"4.37E-118"
+"GO:0003887","DNA-directed DNA polymerase activity",122,"8.58E-116",8,"1.000000",128,"1.31E-132",117,"7.44E-126"
+"GO:0042575","DNA polymerase complex",68,"4.32E-66",0,NA,69,"3.56E-71",68,"2.27E-76"
+"GO:0075523","viral translational frameshifting",19,"8.25E-14",0,NA,21,"1.67E-17",18,"4.40E-15"
+"GO:0004523","RNA-DNA hybrid ribonuclease activity",54,"2.70E-32",8,"1.000000",57,"4.30E-38",48,"2.56E-32"
+"GO:0048010","vascular endothelial growth factor receptor signaling pathway",26,"2.49E-12",10,"1.000000",27,"2.32E-14",28,"4.95E-18"
+"GO:0002040","sprouting angiogenesis",28,"3.34E-11",6,"1.000000",26,"1.50E-10",28,"7.61E-15"
+"GO:0043457","regulation of cellular respiration",8,"0.000009",1,"1.000000",7,"0.000092",0,NA
