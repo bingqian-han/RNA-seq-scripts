@@ -1,0 +1,80 @@
+GO_ID	GO_term_name	cluster
+GO:0005212	structural constituent of eye lens	Heat response genes
+GO:1904874	positive regulation of telomerase RNA localization to Cajal body	Heat response genes
+GO:0101031	protein folding chaperone complex	Heat response genes
+GO:0070286	axonemal dynein complex assembly	Heat response genes
+GO:0120293	dynein axonemal particle	Heat response genes
+GO:0042594	response to starvation	Heat response genes
+GO:0072562	blood microparticle	Heat response genes
+GO:0006950	response to stress	Heat response genes
+GO:0035080	heat shock-mediated polytene chromosome puffing	Heat response genes
+GO:0050435	amyloid-beta metabolic process	Heat response genes
+GO:0008179	adenylate cyclase binding	Heat response genes
+GO:1902430	negative regulation of amyloid-beta formation	Heat response genes
+GO:0043209	myelin sheath	Heat response genes
+GO:0009408	response to heat	Heat response genes
+GO:0051087	protein-folding chaperone binding	Heat response genes
+GO:0006986	response to unfolded protein	Heat response genes
+GO:0031072	heat shock protein binding	Heat response genes
+GO:0140662	ATP-dependent protein folding chaperone	Heat response genes
+GO:0042026	protein refolding	Heat response genes
+GO:0051085	chaperone cofactor-dependent protein refolding	Heat response genes
+GO:0006457	protein folding	Heat response genes
+GO:0051082	unfolded protein binding	Heat response genes
+GO:0044183	protein folding chaperone	Heat response genes
+GO:0061077	chaperone-mediated protein folding	Heat response genes
+GO:0006414	translational elongation	Ribosome-related processes
+GO:0006413	translational initiation	Ribosome-related processes
+GO:0000470	maturation of LSU-rRNA	Ribosome-related processes
+GO:0008097	5S rRNA binding	Ribosome-related processes
+GO:0000027	ribosomal large subunit assembly	Ribosome-related processes
+GO:0042273	ribosomal large subunit biogenesis	Ribosome-related processes
+GO:0005925	focal adhesion	Ribosome-related processes
+GO:0098793	presynapse	Ribosome-related processes
+GO:0098794	postsynapse	Ribosome-related processes
+GO:0070180	large ribosomal subunit rRNA binding	Ribosome-related processes
+GO:1901798	positive regulation of signal transduction by p53 class mediator	Ribosome-related processes
+GO:0003729	mRNA binding	Ribosome-related processes
+GO:1990904	ribonucleoprotein complex	Ribosome-related processes
+GO:0006364	rRNA processing	Ribosome-related processes
+GO:0032040	small-subunit processome	Ribosome-related processes
+GO:0042274	ribosomal small subunit biogenesis	Ribosome-related processes
+GO:0019843	rRNA binding	Ribosome-related processes
+GO:0000028	ribosomal small subunit assembly	Ribosome-related processes
+GO:0015935	small ribosomal subunit	Ribosome-related processes
+GO:0022627	cytosolic small ribosomal subunit	Ribosome-related processes
+GO:0015934	large ribosomal subunit	Ribosome-related processes
+GO:0098556	cytoplasmic side of rough endoplasmic reticulum membrane	Ribosome-related processes
+GO:0140236	translation at presynapse	Ribosome-related processes
+GO:0140242	translation at postsynapse	Ribosome-related processes
+GO:0006412	translation	Ribosome-related processes
+GO:0003735	structural constituent of ribosome	Ribosome-related processes
+GO:0005840	ribosome	Ribosome-related processes
+GO:0022625	cytosolic large ribosomal subunit	Ribosome-related processes
+GO:0002181	cytoplasmic translation	Ribosome-related processes
+GO:0022626	cytosolic ribosome	Ribosome-related processes
+GO:0045271	respiratory chain complex I	Mitochondrial respiration
+GO:0005753	mitochondrial proton-transporting ATP synthase complex	Mitochondrial respiration
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	Mitochondrial respiration
+GO:0031440	regulation of mRNA 3-end processing	Unclustered
+GO:0006355	regulation of DNA-templated transcription	Unclustered
+GO:0002040	sprouting angiogenesis	Tf2-like
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	Tf2-like
+GO:0004523	RNA-DNA hybrid ribonuclease activity	Tf2-like
+GO:0075523	viral translational frameshifting	Tf2-like
+GO:0042575	DNA polymerase complex	Tf2-like
+GO:0003887	DNA-directed DNA polymerase activity	Tf2-like
+GO:0004190	aspartic-type endopeptidase activity	Tf2-like
+GO:0006310	DNA recombination	Tf2-like
+GO:0004519	endonuclease activity	Tf2-like
+GO:0015074	DNA integration	Tf2-like
+GO:0039657	symbiont-mediated suppression of host gene expression	Tf2-like
+GO:0046718	symbiont entry into host cell	Tf2-like
+GO:0044826	viral genome integration into host DNA	Tf2-like
+GO:0075713	establishment of integrated proviral latency	Tf2-like
+GO:0019068	virion assembly	Tf2-like
+GO:0044185	host cell late endosome membrane	Tf2-like
+GO:0020002	host cell plasma membrane	Tf2-like
+GO:0072494	host multivesicular body	Tf2-like
+GO:0019013	viral nucleocapsid	Tf2-like
+GO:0039660	structural constituent of virion	Tf2-like
