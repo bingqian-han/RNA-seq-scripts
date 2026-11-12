@@ -2,7 +2,7 @@
 # Figures S19 and S20: per-minute heart rate in the trial experiment (North and South), first 400 min.
 # Raw heart-rate data: Raw_heartrate_<population>_<temperature>.csv (12 files)
 # Input: Trial_per_minute_heartrate.csv (per-minute heart rate from the raw data)
-# Output: FigureS19.pdf, FigureS19.png, FigureS20.pdf, FigureS20.png
+# Output: FigureS19.pdf, FigureS20.pdf
 # =============================================================================
 
 setwd("C:/path/to/RNAgithub/11heartrate/Trial_heartrate")
@@ -23,8 +23,7 @@ for (i in seq_along(individuals)) {
   zeros <- which(is.finite(d$heart_rate) & d$heart_rate == 0)
   last_nonzero <- max(nonzero)
   heart$clean_rate[idx[zeros[zeros < last_nonzero]]] <- NA_real_
-  # Smooth each stretch of observed values in the first 400 min, as in Figure S2
-  idx <- idx[d$minute <= 400]
+  # Smooth each stretch of observed values, as in Figure S2
   rate <- heart$clean_rate[idx]
   valid <- which(is.finite(rate))
   segments <- split(valid, cumsum(c(TRUE, diff(valid) != 1)))
@@ -43,7 +42,7 @@ panels <- data.frame(country = c(rep("NO", 5), rep("SP", 7)), temperature_C = c(
 heat_panels <- panels[panels$temperature_C != 17, ]
 summary_curve <- list()
 for (i in seq_len(nrow(heat_panels))) {
-  d <- heart[heart$country == heat_panels$country[i] & !is.na(heart$temperature_C) & heart$temperature_C == heat_panels$temperature_C[i] & heart$minute <= 400, ]
+  d <- heart[heart$country == heat_panels$country[i] & heart$temperature_C == heat_panels$temperature_C[i], ]
   ids <- unique(d$individual)
   values <- matrix(NA_real_, 401, length(ids))
   values[cbind(d$minute + 1, match(d$individual, ids))] <- d$smoothed
@@ -57,7 +56,7 @@ room <- heart[heart$temperature_C == 17, ]
 room_means <- aggregate(room$clean_rate, room[c("country", "individual")], mean, na.rm = TRUE)
 baseline <- tapply(room_means$x, room_means$country, mean)
 # Y-axis upper limits
-raw_upper <- ceiling(max(heart$heart_rate, na.rm = TRUE) / 10) * 10
+raw_upper <- 180
 mean_upper <- ceiling(max(summary_curve$upper, baseline, na.rm = TRUE) / 10) * 10
 
 # Panel titles, sample sizes and baseline lines
@@ -76,7 +75,7 @@ figure_theme <- theme_classic(base_size = 11, base_family = "Arial") +
         axis.line = element_line(linewidth = .35), panel.spacing = grid::unit(6, "mm"), plot.margin = margin(7, 11, 7, 7), legend.position = "none")
 
 # Figure S19: every individual's curve; grey = 17-degree
-FigureS19 <- ggplot(heart[heart$minute <= 400, ], aes(minute, heart_rate, group = individual)) +
+FigureS19 <- ggplot(heart, aes(minute, heart_rate, group = individual)) +
   geom_vline(xintercept = c(15, 180), linetype = "dotted", linewidth = .35, colour = "grey45") +
   geom_line(aes(colour = ifelse(temperature_C == 17, "room", country)), linewidth = .28, na.rm = TRUE) +
   geom_text(data = panel_n, aes(x = 390, y = raw_upper * .97, label = paste0("n = ", n)), inherit.aes = FALSE, hjust = 1, vjust = 1, size = 10, size.unit = "pt", family = "Arial") +
@@ -104,4 +103,3 @@ ggsave("FigureS19.pdf", FigureS19, width = 18, height = 23, units = "cm", device
 
 FigureS20
 ggsave("FigureS20.pdf", FigureS20, width = 18, height = 22.5, units = "cm", device = cairo_pdf)
-
