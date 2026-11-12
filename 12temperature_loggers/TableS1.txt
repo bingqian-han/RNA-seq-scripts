@@ -1,0 +1,4 @@
+Population	Site	Air temperature (°C): annual mean	Air temperature (°C): warmest-month daily maximum	Sea surface temperature (°C): annual mean	Sea surface temperature (°C): warmest month	Tidal range (m): mean	Tidal range (m): maximum
+North	Ersvika, Norway (67.19264° N, 14.35769° E)	4.5	15.3	7.6	13.4	1.78	3.19
+Central	Ursholmen, Sweden (58.83140° N, 10.99100° E)	8.2	18.1	9.9	18.3	0.25	0.44
+South	Canabal, Spain (42.26244° N, 8.75789° W)	14.8	22.6	15.1	18.0	2.24	3.99

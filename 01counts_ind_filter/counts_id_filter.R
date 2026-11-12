@@ -1,4 +1,11 @@
-setwd("/data/01counts_ind_filter/")
+setwd("C:/path/to/RNAgithub/01counts_ind_filter/")
+
+# =============================================================================
+# Gene filtering and sample check before all expression analyses.
+# Keep genes with at least 10 counts in at least 5 samples in each population, check the samples by PCA and remove the outlier SPL47.
+# Input: counts_htseqcount.txt (HTSeq-count), group_102ids.txt
+# Output: counts_filter.txt and group.txt (used by all other scripts)
+# =============================================================================
 
 library(DESeq2)
 library(ggplot2)
